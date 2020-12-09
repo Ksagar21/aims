@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092590684586",
+    "project_id": "aims-2112",
+    "storage_bucket": "aims-2112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092590684586:android:f1b29ba6c44953d33c83d3",
+        "android_client_info": {
+          "package_name": "co.airport.aims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092590684586-6cfmlg1b30oierv3le9b88uloe3ggqri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmH8iE4jz9EHGiv13jkeUigqUt_-ghZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092590684586-6cfmlg1b30oierv3le9b88uloe3ggqri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
