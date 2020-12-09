@@ -2,7 +2,7 @@
 
 ## Run Pub Get and Install flutter and dart plugins if not avaliable.
 
-## What you will learn
+## Steps to be done for connecting Firebase.
 
 - Create firebase project.
 - Add application ID
